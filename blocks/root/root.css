@@ -11,4 +11,6 @@
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
+    --index: calc(1vw + 1vh);
+	--transition: cubic-bezier(.1, .7, 0, 1);
 }
