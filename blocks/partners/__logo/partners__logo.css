@@ -1,0 +1,13 @@
+.partners__logo {
+    max-width: 240px;
+    transition: opacity .3s ease;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+.partners__logo:hover {
+    opacity: 0.6;
+}
